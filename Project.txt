@@ -1,0 +1,2 @@
+Creat a homepage for E-commerce website .
+Use media queries to make it responsive.
